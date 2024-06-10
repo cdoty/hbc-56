@@ -1,0 +1,6 @@
+[submodule "SystemLib"]
+	path = SystemLib
+	url = https://github.com/cdoty/tms9918lib.git
+[submodule "Game"]
+	path = Game
+	url = https://github.com/cdoty/Game

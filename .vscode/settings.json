@@ -1,0 +1,11 @@
+{
+	"files.associations": {
+		"genericroutines.h": "c",
+		"decompress.h": "c",
+		"systemroutines.h": "c",
+		"inputroutines.h": "c",
+		"sprites.h": "c",
+		"decompression.h": "c",
+		"playerdefines.h": "c"
+	}
+}

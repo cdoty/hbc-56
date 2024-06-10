@@ -1,0 +1,4 @@
+*.lst
+*.obj
+*.pck
+Graphics/*.s
