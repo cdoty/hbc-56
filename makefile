@@ -48,6 +48,7 @@ graphics 	= $(Graphics_S:.s=.obj)
 libs 		= $(LIB_PATH)/cate$(compileType).lib
 
 lists 		= $(System_S:.s=.lst)
+lists 		+= $(Vectors_S:.s=.lst)
 lists 		+= $(Shared_S:.s=.lst)
 lists 		+= $(Game_C:.c=.lst)
 lists 		+= $(Graphics_S:.s=.lst)
